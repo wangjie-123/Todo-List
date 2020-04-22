@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha test/bootstrap.js --recursive test --timeout 10000"
   },
-  "author": "",
+  "author": "wj, dx",
   "license": "ISC",
   "dependencies": {
     "chai": "^4.2.0",
